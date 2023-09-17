@@ -2,7 +2,7 @@
 
  <p align="center"><img src="https://i.imgur.com/vnBKCsi.png"/></p>
 
- <p align="center"><h1 align="center">Hi! <img src="https://media.giphy.com/media/8XaBSsyQaYFxxNqznU/giphy.gif" width="40" height="40"/>
+ <!--<p align="center"><h1 align="center">Hi! <img src="https://media.giphy.com/media/8XaBSsyQaYFxxNqznU/giphy.gif" width="40" height="40"/>--!>
  </h3>
  <p align="center">I'm a fourth-year math student at Georgia Tech with a concentration in data science. </p>
 
